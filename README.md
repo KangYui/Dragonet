@@ -20,9 +20,10 @@ Yes, mostly! But you may expirence some bugs and issues because this software is
 ## Demo Server
 `Always Running Latest Dragonet 0.0.3 Development Build. `
 `Installed Bukkit Essentials plugins for only demo purpose. `
-#### For Minecraft PC: UPDATING
-#### For Minecraft PE: UPDATING
-Servers are proudly sponsored by [BytePowered](http://www.bytepowered.com). 
+`It will try Auto-Update, Maybe always latest version.`
+#### For Minecraft PC: lolirs.com:25565
+#### For Minecraft PE: lolirs.com:19132
+Servers are proudly sponsored by [MineCroud](http://minecroud.xyz/). 
 
 ### About Bukkit Essentials
 #### If you are looking for Bukkit Essentials, you should use [Spigot Essentials](https://hub.spigotmc.org/jenkins/job/Spigot-Essentials/). 
